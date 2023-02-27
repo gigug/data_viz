@@ -55,25 +55,21 @@ def plot_age_vs_breed(df):
     fig.show()
 
 
-def plot_dog_breed_district(df):
-    # Select the top 15 most common dog breeds
-    top_breeds = df['RASSE1'].value_counts().nlargest(15).index.tolist()
+def plot_dog_breed_district(gj, df):
+    df_dog_by_district = get_dog_by_district(df)
 
-    # Filter the data to include only the top 15 breeds
-    filtered_df = df[df['RASSE1'].isin(top_breeds)]
+    filename_population = 'data/population.csv'
+    df_population = load_ds(filename_population)
 
-    # Group the data by district and breed
-    grouped_df = filtered_df.groupby(['STADTKREIS', 'RASSE1']).size().reset_index(name='count')
-
-    # Create a plotly scatter plot
-    fig = px.scatter(grouped_df, x='STADTKREIS', y='RASSE1', size='count',
-                     hover_data={'STADTKREIS': True, 'RASSE1': True, 'count': True},
-                     labels={'STADTKREIS': 'District', 'RASSE1': 'Breed', 'count': 'Count'},
-                     title='Most Common Dog Breeds by District in Zurich',
-                     color='count',
-                     color_continuous_scale='Blues')
-
-    fig.update_layout(xaxis={'tickmode': 'linear'})
+    fig = px.choropleth(df_dog_by_district,
+                        geojson=gj,
+                        locations='QuarLang',
+                        color='Count',
+                        featureidkey="properties.name",
+                        color_continuous_scale="Oranges",
+                        labels={'Count': 'unemployment rate'}
+                        )
+    fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     fig.show()
 
 
@@ -97,30 +93,54 @@ def load_geojson(filename_geojson):
     return gj
 
 
-def plot_geojson(gj):
-    fig = px.choropleth_mapbox(gj,
-                               geojson=gj,
-                               locations=[1],
-                               color_discrete_sequence=['blue'],
-                               opacity=0.5,
-                               center={"lat": 47.36667, "lon": 8.55},
-                               mapbox_style="carto-positron",
-                               zoom=9)
+def correct_geojson(gj):
 
-    fig.show()
+    # Define a dictionary of misspelled district names and their correct spelling
+    misspelled_to_correct = {
+        'MÃ¼hlebach': 'Mühlebach',
+        'HÃ¶ngg': 'Höngg',
+        # Add more misspelled and correct district names as necessary
+    }
+
+    # Loop through the features in the GeoJSON file
+    for feature in gj['features']:
+        # Get the district name from the feature's properties
+        district_name = feature['properties']['name']
+        # Check if the district name is in the misspelled_to_correct dictionary
+        if district_name in misspelled_to_correct:
+            # If it is, replace the district name with its correct spelling
+            feature['properties']['name'] = misspelled_to_correct[district_name]
+
+    # Save the modified GeoJSON file
+    with open('data/zurich-city.geojson', 'w') as f:
+        geojson.dump(gj, f)
+
+
+def fix_ds(df):
+    # Define the list of districts to remove
+    districts_to_remove = ['Unbekannt (Kreis 4)', 'Unbekannt (Kreis 6)', 'Unbekannt (Kreis 8)', 'Unbekannt (Kreis 1)',
+                           'Unbekannt (Stadt Zürich)']
+
+    # Drop the rows with the corresponding districts
+    df = df[~df['QuarLang'].isin(districts_to_remove)]
+
+    # Save the resulting DataFrame to a new CSV file
+    df.to_csv(filename_ds, index=False)
+
+
+def get_dog_by_district(df):
+    district_counts = df["QuarLang"].value_counts()
+    df_district = pd.DataFrame({'QuarLang': district_counts.index, 'Count': district_counts.values})
+
+    return df_district
 
 
 if __name__ == "__main__":
-    filename_ds = 'data/2017hund.csv'
-    filename_geojson = 'data/zurich.geojson'
-    filename_geojson_city = 'data/zurich-city.geojson'
+    filename_ds = 'data/ds.csv'
+    filename_geojson = 'data/zurich-city.geojson'
 
     df = load_ds(filename_ds)
     gj = load_geojson(filename_geojson)
-    gj_city = load_geojson(filename_geojson_city)
-
-    plot_geojson(gj)
-    plot_geojson(gj_city)
 
     # First question: what are the most popular dog breeds in Zurich?
     #plot_popular_breeds(df)
@@ -129,4 +149,4 @@ if __name__ == "__main__":
     #plot_age_vs_breed(df)
 
     # Third question: how does the breed of dogs vary by district in Zurich?
-    #plot_dog_breed_district(df)
+    plot_dog_breed_district(gj, df)
