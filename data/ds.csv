@@ -18,7 +18,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,5088,60,60- bis 69-Jährige,7,1,männlich,1,7,Kreis 7,7,72,Hottingen,72,Labrador Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2014,6,6-Jährige,6,2,weiblich,2,schwarz,1
 2021,5113,60,60- bis 69-Jährige,7,1,männlich,1,11,Kreis 11,11,119,Seebach,119,Beagle,,1,Rassehund,1,K,Kleinwüchsig,1,2010,10,10-Jährige,10,2,weiblich,2,tricolor,1
 2021,5113,60,60- bis 69-Jährige,7,1,männlich,1,11,Kreis 11,11,119,Seebach,119,Chihuahua,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,2,weiblich,2,beige,1
-2021,5225,999,Unbekannt,99,1,männlich,1,3,Kreis 3,3,33,Friesenberg,33,Lagotto Romagnolo,,1,Rassehund,1,I,Rassentypenliste I,2,2007,13,13-Jährige,13,1,männlich,1,braun,1
 2021,5227,70,70- bis 79-Jährige,8,1,männlich,1,10,Kreis 10,10,101,Höngg,101,Border Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2011,9,9-Jährige,9,2,weiblich,2,tricolor,1
 2021,5406,60,60- bis 69-Jährige,7,1,männlich,1,6,Kreis 6,6,61,Unterstrass,61,Französische Bulldogge,,1,Rassehund,1,K,Kleinwüchsig,1,2013,7,7-Jährige,7,1,männlich,1,weiss/schwarz,1
 2021,6071,70,70- bis 79-Jährige,8,1,männlich,1,3,Kreis 3,3,34,Sihlfeld,34,Pointer,,1,Rassehund,1,I,Rassentypenliste I,2,2012,8,8-Jährige,8,2,weiblich,2,schwarz/braun,1
@@ -37,8 +36,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,14550,80,80- bis 89-Jährige,9,1,männlich,1,12,Kreis 12,12,122,Schwamendingen-Mitte,122,Biewer Yorkshire Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2015,5,5-Jährige,5,2,weiblich,2,tricolor,1
 2021,15456,40,40- bis 49-Jährige,5,1,männlich,1,2,Kreis 2,2,21,Wollishofen,21,Chihuahua,,1,Rassehund,1,K,Kleinwüchsig,1,2010,10,10-Jährige,10,1,männlich,1,schwarz,1
 2021,15456,40,40- bis 49-Jährige,5,1,männlich,1,2,Kreis 2,2,21,Wollishofen,21,Chihuahua,,1,Rassehund,1,K,Kleinwüchsig,1,2015,5,5-Jährige,5,2,weiblich,2,schwarz/weiss,1
-2021,15490,999,Unbekannt,99,1,männlich,1,9,Kreis 9,9,92,Altstetten,92,Parson Jack Russell Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2015,5,5-Jährige,5,1,männlich,1,weiss/blau,1
-2021,15530,999,Unbekannt,99,1,männlich,1,2,Kreis 2,2,21,Wollishofen,21,Mops,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,1,männlich,1,weiss/beige,1
 2021,15639,60,60- bis 69-Jährige,7,1,männlich,1,11,Kreis 11,11,119,Seebach,119,Malteser,,1,Rassehund,1,K,Kleinwüchsig,1,2013,7,7-Jährige,7,2,weiblich,2,weiss,1
 2021,18010,60,60- bis 69-Jährige,7,1,männlich,1,3,Kreis 3,3,34,Sihlfeld,34,Pit Bull Terrier,,1,Rassehund,1,II,Rassentypenliste II,3,2003,17,17-Jährige,17,1,männlich,1,schwarz/weiss,1
 2021,18020,50,50- bis 59-Jährige,6,1,männlich,1,9,Kreis 9,9,92,Altstetten,92,Labrador Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2011,9,9-Jährige,9,2,weiblich,2,schwarz,1
@@ -1762,7 +1759,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,93675,50,50- bis 59-Jährige,6,2,weiblich,2,7,Kreis 7,7,72,Hottingen,72,Dalmatiner,,1,Rassehund,1,I,Rassentypenliste I,2,2006,14,14-Jährige,14,1,männlich,1,weiss/schwarz,1
 2021,93675,50,50- bis 59-Jährige,6,2,weiblich,2,7,Kreis 7,7,72,Hottingen,72,Unbekannt,Unbekannt,4,"Mischling, beide Rassen unbekannt",4,K,Kleinwüchsig,1,2018,2,2-Jährige,2,1,männlich,1,schwarz/braun,1
 2021,93676,50,50- bis 59-Jährige,6,2,weiblich,2,9,Kreis 9,9,91,Albisrieden,91,Golden Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2008,12,12-Jährige,12,2,weiblich,2,golden,1
-2021,93678,999,Unbekannt,99,2,weiblich,2,2,Kreis 2,2,21,Wollishofen,21,West Highland White Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2020,0,0-Jährige,0,1,männlich,1,weiss,1
 2021,93707,70,70- bis 79-Jährige,8,2,weiblich,2,6,Kreis 6,6,61,Unterstrass,61,Bolonka Zwetna,,1,Rassehund,1,K,Kleinwüchsig,1,2015,5,5-Jährige,5,1,männlich,1,rot/braun,1
 2021,93722,70,70- bis 79-Jährige,8,2,weiblich,2,3,Kreis 3,3,31,Alt-Wiedikon,31,Foxterrier,,1,Rassehund,1,K,Kleinwüchsig,1,2008,12,12-Jährige,12,1,männlich,1,tricolor,1
 2021,93729,60,60- bis 69-Jährige,7,1,männlich,1,4,Kreis 4,4,42,Langstrasse,42,Lagotto Romagnolo,,1,Rassehund,1,I,Rassentypenliste I,2,2008,12,12-Jährige,12,2,weiblich,2,braun meliert,1
@@ -2341,7 +2337,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,102407,40,40- bis 49-Jährige,5,2,weiblich,2,4,Kreis 4,4,44,Hard,44,Galgo Espanol,Unbekannt,3,"Mischling, sekundäre Rasse unbekannt",3,I,Rassentypenliste I,2,2009,11,11-Jährige,11,1,männlich,1,weiss/braun,1
 2021,102464,50,50- bis 59-Jährige,6,2,weiblich,2,9,Kreis 9,9,91,Albisrieden,91,Unbekannt,Unbekannt,4,"Mischling, beide Rassen unbekannt",4,K,Kleinwüchsig,1,2008,12,12-Jährige,12,2,weiblich,2,grau/weiss/schwarz,1
 2021,102474,60,60- bis 69-Jährige,7,1,männlich,1,3,Kreis 3,3,34,Sihlfeld,34,Labrador Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2009,11,11-Jährige,11,2,weiblich,2,schwarz,1
-2021,102579,999,Unbekannt,99,1,männlich,1,8,Kreis 8,8,81,Seefeld,81,Mops,,1,Rassehund,1,K,Kleinwüchsig,1,2010,10,10-Jährige,10,1,männlich,1,beige,1
 2021,102704,80,80- bis 89-Jährige,9,1,männlich,1,7,Kreis 7,7,74,Witikon,74,Portugiesischer Wasserhund,,1,Rassehund,1,I,Rassentypenliste I,2,2010,10,10-Jährige,10,1,männlich,1,schwarz/braun,1
 2021,102705,40,40- bis 49-Jährige,5,2,weiblich,2,7,Kreis 7,7,71,Fluntern,71,Deutscher Boxer,,1,Rassehund,1,I,Rassentypenliste I,2,2010,10,10-Jährige,10,1,männlich,1,gelb,1
 2021,102706,30,30- bis 39-Jährige,4,1,männlich,1,6,Kreis 6,6,61,Unterstrass,61,Boxer,,1,Rassehund,1,I,Rassentypenliste I,2,2010,10,10-Jährige,10,1,männlich,1,gelb/weiss,1
@@ -2748,7 +2743,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,109644,30,30- bis 39-Jährige,4,2,weiblich,2,11,Kreis 11,11,119,Seebach,119,Französische Bulldogge,,1,Rassehund,1,K,Kleinwüchsig,1,2019,1,1-Jährige,1,1,männlich,1,braun/schwarz,1
 2021,109644,30,30- bis 39-Jährige,4,2,weiblich,2,11,Kreis 11,11,119,Seebach,119,Mops,,1,Rassehund,1,K,Kleinwüchsig,1,2012,8,8-Jährige,8,1,männlich,1,schwarz,1
 2021,109684,30,30- bis 39-Jährige,4,2,weiblich,2,4,Kreis 4,4,42,Langstrasse,42,Unbekannt,Unbekannt,4,"Mischling, beide Rassen unbekannt",4,I,Rassentypenliste I,2,2009,11,11-Jährige,11,1,männlich,1,braun/weiss,1
-2021,109707,999,Unbekannt,99,1,männlich,1,11,Kreis 11,11,119,Seebach,119,Deutscher Schäferhund,,1,Rassehund,1,I,Rassentypenliste I,2,2018,2,2-Jährige,2,1,männlich,1,schwarz/braun,1
 2021,109722,50,50- bis 59-Jährige,6,2,weiblich,2,2,Kreis 2,2,24,Enge,24,Bergamasker,Border Collie,2,"Mischling, beide Rassen bekannt",2,I,Rassentypenliste I,2,2011,9,9-Jährige,9,2,weiblich,2,tricolor,1
 2021,109723,40,40- bis 49-Jährige,5,2,weiblich,2,7,Kreis 7,7,74,Witikon,74,Shih Tzu,,1,Rassehund,1,K,Kleinwüchsig,1,2011,9,9-Jährige,9,1,männlich,1,schwarz,1
 2021,109725,50,50- bis 59-Jährige,6,2,weiblich,2,4,Kreis 4,4,42,Langstrasse,42,Labrador,Pudel,2,"Mischling, beide Rassen bekannt",2,I,Rassentypenliste I,2,2011,9,9-Jährige,9,2,weiblich,2,braun/weiss,1
@@ -5207,7 +5201,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,137755,50,50- bis 59-Jährige,6,2,weiblich,2,3,Kreis 3,3,31,Alt-Wiedikon,31,Bolonka Zwetna,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,1,männlich,1,schwarz/weiss,1
 2021,137774,60,60- bis 69-Jährige,7,1,männlich,1,3,Kreis 3,3,33,Friesenberg,33,Mittelpudel,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,1,männlich,1,schwarz,1
 2021,137785,50,50- bis 59-Jährige,6,1,männlich,1,7,Kreis 7,7,74,Witikon,74,Pekingese,,1,Rassehund,1,K,Kleinwüchsig,1,2016,4,4-Jährige,4,1,männlich,1,grau,1
-2021,137788,999,Unbekannt,99,2,weiblich,2,2,Kreis 2,2,24,Enge,24,Parson Russell Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,1,männlich,1,rot/weiss,1
 2021,137797,30,30- bis 39-Jährige,4,2,weiblich,2,9,Kreis 9,9,92,Altstetten,92,Danish-Swedish Farmdog,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,1,männlich,1,weiss/schwarz/braun,1
 2021,137811,30,30- bis 39-Jährige,4,2,weiblich,2,9,Kreis 9,9,92,Altstetten,92,Unbekannt,Unbekannt,4,"Mischling, beide Rassen unbekannt",4,K,Kleinwüchsig,1,2016,4,4-Jährige,4,2,weiblich,2,weiss,1
 2021,137838,40,40- bis 49-Jährige,5,1,männlich,1,10,Kreis 10,10,101,Höngg,101,Dachshund,,1,Rassehund,1,K,Kleinwüchsig,1,2010,10,10-Jährige,10,1,männlich,1,saufarben,1
@@ -5639,7 +5632,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,141446,20,20- bis 29-Jährige,3,1,männlich,1,7,Kreis 7,7,74,Witikon,74,Cane Corso,,1,Rassehund,1,I,Rassentypenliste I,2,2017,3,3-Jährige,3,1,männlich,1,schwarz,1
 2021,141448,60,60- bis 69-Jährige,7,2,weiblich,2,1,Kreis 1,1,11,Rathaus,11,Mittelpudel,,1,Rassehund,1,K,Kleinwüchsig,1,2018,2,2-Jährige,2,2,weiblich,2,schwarz,1
 2021,141465,50,50- bis 59-Jährige,6,1,männlich,1,3,Kreis 3,3,34,Sihlfeld,34,Podenco,,1,Rassehund,1,I,Rassentypenliste I,2,2017,3,3-Jährige,3,1,männlich,1,schwarz,1
-2021,141485,999,Unbekannt,99,1,männlich,1,3,Kreis 3,3,34,Sihlfeld,34,Labrador Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2018,2,2-Jährige,2,1,männlich,1,schwarz,1
 2021,141494,50,50- bis 59-Jährige,6,2,weiblich,2,3,Kreis 3,3,31,Alt-Wiedikon,31,Unbekannt,Unbekannt,4,"Mischling, beide Rassen unbekannt",4,K,Kleinwüchsig,1,2010,10,10-Jährige,10,1,männlich,1,hellbraun,1
 2021,141497,60,60- bis 69-Jährige,7,2,weiblich,2,7,Kreis 7,7,74,Witikon,74,Dachshund,Unbekannt,3,"Mischling, sekundäre Rasse unbekannt",3,K,Kleinwüchsig,1,2008,12,12-Jährige,12,2,weiblich,2,schwarz,1
 2021,141497,60,60- bis 69-Jährige,7,2,weiblich,2,7,Kreis 7,7,74,Witikon,74,Unbekannt,Unbekannt,4,"Mischling, beide Rassen unbekannt",4,I,Rassentypenliste I,2,2011,9,9-Jährige,9,1,männlich,1,braun/schwarz,1
@@ -5843,7 +5835,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,143262,30,30- bis 39-Jährige,4,1,männlich,1,12,Kreis 12,12,123,Hirzenbach,123,Französische Bulldogge,,1,Rassehund,1,K,Kleinwüchsig,1,2014,6,6-Jährige,6,1,männlich,1,rot,1
 2021,143272,50,50- bis 59-Jährige,6,2,weiblich,2,6,Kreis 6,6,63,Oberstrass,63,Havaneser,,1,Rassehund,1,K,Kleinwüchsig,1,2018,2,2-Jährige,2,2,weiblich,2,rot,1
 2021,143274,70,70- bis 79-Jährige,8,1,männlich,1,2,Kreis 2,2,24,Enge,24,Mops,,1,Rassehund,1,K,Kleinwüchsig,1,2018,2,2-Jährige,2,2,weiblich,2,beige,1
-2021,143275,999,Unbekannt,99,1,männlich,1,1,Kreis 1,1,11,Rathaus,11,Lagotto Romagnolo,,1,Rassehund,1,I,Rassentypenliste I,2,2018,2,2-Jährige,2,1,männlich,1,weiss/orange,1
 2021,143277,30,30- bis 39-Jährige,4,1,männlich,1,9,Kreis 9,9,91,Albisrieden,91,Havaneser,,1,Rassehund,1,K,Kleinwüchsig,1,2018,2,2-Jährige,2,2,weiblich,2,braun,1
 2021,143285,30,30- bis 39-Jährige,4,2,weiblich,2,6,Kreis 6,6,61,Unterstrass,61,Labrador Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2011,9,9-Jährige,9,2,weiblich,2,schwarz,1
 2021,143303,30,30- bis 39-Jährige,4,1,männlich,1,3,Kreis 3,3,33,Friesenberg,33,Border Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2013,7,7-Jährige,7,2,weiblich,2,red grizzle,1
@@ -6550,7 +6541,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,148112,30,30- bis 39-Jährige,4,2,weiblich,2,1,Kreis 1,1,14,City,14,Französische Bulldogge,,1,Rassehund,1,K,Kleinwüchsig,1,2016,4,4-Jährige,4,1,männlich,1,braun/weiss,1
 2021,148115,30,30- bis 39-Jährige,4,1,männlich,1,3,Kreis 3,3,31,Alt-Wiedikon,31,Labrador Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2019,1,1-Jährige,1,1,männlich,1,braun,1
 2021,148117,50,50- bis 59-Jährige,6,1,männlich,1,7,Kreis 7,7,74,Witikon,74,Golden Retriever,Labrador,2,"Mischling, beide Rassen bekannt",2,I,Rassentypenliste I,2,2018,2,2-Jährige,2,2,weiblich,2,schwarz,1
-2021,148131,999,Unbekannt,99,1,männlich,1,9,Kreis 9,9,92,Altstetten,92,Französische Bulldogge,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,2,weiblich,2,schwarz gestromt,1
 2021,148132,30,30- bis 39-Jährige,4,2,weiblich,2,12,Kreis 12,12,123,Hirzenbach,123,Unbekannt,Unbekannt,4,"Mischling, beide Rassen unbekannt",4,K,Kleinwüchsig,1,2018,2,2-Jährige,2,2,weiblich,2,schwarz/weiss,1
 2021,148134,40,40- bis 49-Jährige,5,2,weiblich,2,7,Kreis 7,7,73,Hirslanden,73,Zwergspitz,Husky,2,"Mischling, beide Rassen bekannt",2,I,Rassentypenliste I,2,2019,1,1-Jährige,1,2,weiblich,2,creme,1
 2021,148150,60,60- bis 69-Jährige,7,2,weiblich,2,11,Kreis 11,11,119,Seebach,119,Flat Coated Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2019,1,1-Jährige,1,1,männlich,1,schwarz,1
@@ -6727,7 +6717,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,149110,30,30- bis 39-Jährige,4,2,weiblich,2,6,Kreis 6,6,61,Unterstrass,61,Dachshund,Beagle,2,"Mischling, beide Rassen bekannt",2,K,Kleinwüchsig,1,2012,8,8-Jährige,8,1,männlich,1,schwarz/braun,1
 2021,149113,30,30- bis 39-Jährige,4,1,männlich,1,12,Kreis 12,12,121,Saatlen,121,Deutscher Schäferhund,,1,Rassehund,1,I,Rassentypenliste I,2,2014,6,6-Jährige,6,1,männlich,1,braun/schwarz,1
 2021,149116,20,20- bis 29-Jährige,3,2,weiblich,2,9,Kreis 9,9,92,Altstetten,92,Miniature Australian Shepherd,,1,Rassehund,1,I,Rassentypenliste I,2,2019,1,1-Jährige,1,2,weiblich,2,tricolor,1
-2021,149121,999,Unbekannt,99,2,weiblich,2,9,Kreis 9,9,92,Altstetten,92,Deutscher Schäfer,Labrador Retriever,2,"Mischling, beide Rassen bekannt",2,I,Rassentypenliste I,2,2012,8,8-Jährige,8,1,männlich,1,beige,1
 2021,149124,70,70- bis 79-Jährige,8,2,weiblich,2,12,Kreis 12,12,122,Schwamendingen-Mitte,122,Pekingese,,1,Rassehund,1,K,Kleinwüchsig,1,2010,10,10-Jährige,10,2,weiblich,2,braun,1
 2021,149127,40,40- bis 49-Jährige,5,1,männlich,1,3,Kreis 3,3,34,Sihlfeld,34,Lagotto Romagnolo,,1,Rassehund,1,I,Rassentypenliste I,2,2019,1,1-Jährige,1,2,weiblich,2,braun/weiss,1
 2021,149128,30,30- bis 39-Jährige,4,1,männlich,1,3,Kreis 3,3,31,Alt-Wiedikon,31,Bernhardiner,,1,Rassehund,1,I,Rassentypenliste I,2,2016,4,4-Jährige,4,2,weiblich,2,braun/weiss/schwarz,1
@@ -7431,7 +7420,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,153302,30,30- bis 39-Jährige,4,1,männlich,1,11,Kreis 11,11,119,Seebach,119,Yorkshire Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2013,7,7-Jährige,7,2,weiblich,2,blue/steel,1
 2021,153303,20,20- bis 29-Jährige,3,2,weiblich,2,6,Kreis 6,6,61,Unterstrass,61,Miniature Bull Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2017,3,3-Jährige,3,2,weiblich,2,gestromt,1
 2021,153304,70,70- bis 79-Jährige,8,2,weiblich,2,7,Kreis 7,7,74,Witikon,74,Labrador,,1,Rassehund,1,I,Rassentypenliste I,2,2007,13,13-Jährige,13,2,weiblich,2,braun,1
-2021,153305,999,Unbekannt,99,1,männlich,1,10,Kreis 10,10,101,Höngg,101,Magyar Viszla,,1,Rassehund,1,I,Rassentypenliste I,2,2020,0,0-Jährige,0,1,männlich,1,braun,1
 2021,153306,60,60- bis 69-Jährige,7,2,weiblich,2,9,Kreis 9,9,92,Altstetten,92,Yorkshire Terrier,,1,Rassehund,1,K,Kleinwüchsig,1,2020,0,0-Jährige,0,2,weiblich,2,tricolor,1
 2021,153307,30,30- bis 39-Jährige,4,1,männlich,1,8,Kreis 8,8,81,Seefeld,81,Barbet,,1,Rassehund,1,I,Rassentypenliste I,2,2020,0,0-Jährige,0,1,männlich,1,schwarz/weiss,1
 2021,153309,40,40- bis 49-Jährige,5,1,männlich,1,7,Kreis 7,7,71,Fluntern,71,Labrador Retriever,,1,Rassehund,1,I,Rassentypenliste I,2,2013,7,7-Jährige,7,2,weiblich,2,braun,1
@@ -7798,8 +7786,6 @@ StichtagDatJahr,HalterId,AlterV10Cd,AlterV10Lang,AlterV10Sort,SexCd,SexLang,SexS
 2021,154515,50,50- bis 59-Jährige,6,2,weiblich,2,7,Kreis 7,7,74,Witikon,74,Dachshund,,1,Rassehund,1,K,Kleinwüchsig,1,2020,0,0-Jährige,0,2,weiblich,2,saufarben,1
 2021,154516,40,40- bis 49-Jährige,5,2,weiblich,2,8,Kreis 8,8,82,Mühlebach,82,Australian Shepherd,Labrador Retriever,2,"Mischling, beide Rassen bekannt",2,I,Rassentypenliste I,2,2018,2,2-Jährige,2,1,männlich,1,schwarz/weiss,1
 2021,154521,30,30- bis 39-Jährige,4,2,weiblich,2,11,Kreis 11,11,119,Seebach,119,Magyar Viszla,Labrador Retriever,2,"Mischling, beide Rassen bekannt",2,I,Rassentypenliste I,2,2020,0,0-Jährige,0,2,weiblich,2,braun,1
-2021,154524,999,Unbekannt,99,1,männlich,1,11,Kreis 11,11,111,Affoltern,111,English Setter,,1,Rassehund,1,I,Rassentypenliste I,2,2019,1,1-Jährige,1,2,weiblich,2,schwarz/weiss,1
-2021,154524,999,Unbekannt,99,1,männlich,1,11,Kreis 11,11,111,Affoltern,111,English Setter,,1,Rassehund,1,I,Rassentypenliste I,2,2020,0,0-Jährige,0,2,weiblich,2,weiss/schwarz,1
 2021,154525,30,30- bis 39-Jährige,4,2,weiblich,2,11,Kreis 11,11,111,Affoltern,111,Chihuahua,,1,Rassehund,1,K,Kleinwüchsig,1,2019,1,1-Jährige,1,2,weiblich,2,braun/weiss,1
 2021,154527,20,20- bis 29-Jährige,3,2,weiblich,2,2,Kreis 2,2,21,Wollishofen,21,English Springer Spaniel,,1,Rassehund,1,I,Rassentypenliste I,2,2016,4,4-Jährige,4,2,weiblich,2,schwarz/weiss,1
 2021,154531,30,30- bis 39-Jährige,4,1,männlich,1,3,Kreis 3,3,34,Sihlfeld,34,Alaskan Malamute,,1,Rassehund,1,I,Rassentypenliste I,2,2020,0,0-Jährige,0,1,männlich,1,grau/weiss,1
